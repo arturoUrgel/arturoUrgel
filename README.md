@@ -1,4 +1,6 @@
+<div align="center">
 ![Hi, I'm Arturo](https://github.com/arturoUrgel/arturoUrgel/blob/main/assets/Logo.png)
+</div>
 
 <h1 align="center">
 Hola!! Soy Arturo Urgel
