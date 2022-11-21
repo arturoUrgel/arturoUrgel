@@ -28,3 +28,7 @@ Full Stack Developer from Argentina to :earth_americas:
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
   <br />
 </p>
+
+
+## 📊 Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arturoUrgel)](https://github.com/arturoUrgel/github-readme-stats)
