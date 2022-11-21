@@ -1,13 +1,10 @@
 <div align="center">
-![Hi, I'm Arturo](https://github.com/arturoUrgel/arturoUrgel/blob/main/assets/Logo.png)
-</div>
-
 <img
   src="/assets/Logo.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-
+</div>
 <h1 align="center">
 Hola!! Soy Arturo Urgel
 </h1>
